@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    front-family; calibri;
+    list-style: none;
+    text-decoration; none;
+}
+    img{
+        max-width: 100% ;
+    }
+    header{
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
