@@ -1,9 +1,9 @@
 *{
     margin: 0;
     padding: 0;
-    front-family; calibri;
+    font-family: calibri;
     list-style: none;
-    text-decoration; none;
+    text-decoration: none;
 }
 img{
     max-width: 100% ;
@@ -42,7 +42,7 @@ nav a:hover{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom:40px:
+    margin-bottom: 40px:
 }
 .quem-somos{
     width: 50%;
